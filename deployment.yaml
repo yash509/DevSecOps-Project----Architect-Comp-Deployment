@@ -16,4 +16,4 @@ spec:
       - name: architecture-website
         image: yash5090/architecture-website
         ports:
-        - containerPort: 80
+        - containerPort: 5000
